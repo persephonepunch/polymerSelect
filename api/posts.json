@@ -1,0 +1,34 @@
+[
+  {
+    "uid": 1,
+    "text" : "save to favorites to see rates",
+    "avatar" : "images/avatar-01.svg",
+    "favorite": false
+  },
+  {
+    "uid": 2,
+    "text" : "save to favorites to see rates",
+
+    "avatar" : "images/avatar-02.svg",
+    "favorite": false
+  },
+    {
+    "uid": 3,
+    "text" : "save to favorites to see rates",
+     "avatar" : "images/avatar-03.svg",
+    "favorite": false
+  },
+  {
+    "uid": 4,
+    "text" : "save to favorites to see rates",
+     "avatar" : "images/avatar-04.svg",
+    "favorite": false
+  },
+  {
+    "uid": 5,
+    "text" : "save to favorites to see rates",
+     "avatar" : "images/avatar-05.svg",
+    "favorite": false
+  }
+
+]
